@@ -1,0 +1,27 @@
+body{
+    background-color:#EAF6F6;
+}
+hr{
+    border-style:none;
+    border-top:dotted 7px grey;
+    width:7%;
+}
+h1:hover{
+    color: black;
+}
+h1{
+    font-family: "lucida handwriting", cursive;
+    color: #66BFBF;
+}
+h2{
+    color:#66BFBF;
+}
+h3{
+    color:#66BFBF;
+}
+.contact:focus{
+    background-color: lightblue;
+}
+#submit:hover{
+    background-color:white;
+}
